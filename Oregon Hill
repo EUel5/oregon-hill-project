@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Oregon Hill Community Research</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Oregon Hill Community Research Project</h1>
+        <p>Exploring historical, environmental, and socioeconomic issues in Oregon Hill, Richmond, Virginia</p>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="#history">Historic Issues</a></li>
+            <li><a href="#food">Food Deserts</a></li>
+            <li><a href="#environment">Environmental Hazards</a></li>
+            <li><a href="#conclusion">Conclusion</a></li>
+        </ul>
+    </nav>
+
+    <section id="history">
+        <h2>Historic Issues in Oregon Hill</h2>
+        <p><strong>Overview:</strong> Oregon Hill is a historic neighborhood known for its working-class roots...</p>
+        <p><strong>Key Issues:</strong> Impact of the Downtown Expressway, Aging Housing, Changing Demographics...</p>
+        <img src="oregon-hill-history.jpg" alt="Historic Oregon Hill" />
+        <p><strong>Synthesis:</strong> Zach’s research highlights the ongoing challenges of maintaining Oregon Hill’s identity...</p>
+    </section>
+
+    <section id="food">
+        <h2>Food Deserts in Oregon Hill</h2>
+        <p><strong>Overview:</strong> Oregon Hill is suffering from food insecurity due to limited access to affordable, healthy food...</p>
+        <p><strong>Key Issues:</strong> Limited Grocery Stores, Impact of Gentrification, Health Concerns...</p>
+        <img src="food-desert-map.jpg" alt="Food Desert Map" />
+        <p><strong>Synthesis:</strong> Noel’s research identifies food deserts as a central issue in Oregon Hill...</p>
+    </section>
+
+    <section id="environment">
+        <h2>Environmental Hazards in Oregon Hill</h2>
+        <p><strong>Overview:</strong> Oregon Hill faces multiple environmental risks, including lead paint exposure, air pollution, and urban heat...</p>
+        <p><strong>Key Issues:</strong> Lead Paint, Air Quality, Urban Heat Island Effect...</p>
+        <img src="environmental-issues.jpg" alt="Environmental Hazards" />
+        <p><strong>Synthesis:</strong> Euel’s research outlines the solutions to mitigate environmental hazards...</p>
+    </section>
+
+    <section id="conclusion">
+        <h2>Conclusion and Recommendations</h2>
+        <p>Oregon Hill faces numerous challenges, but the community’s resilience offers hope for overcoming these obstacles...</p>
+        <ul>
+            <li>Lead paint abatement programs</li>
+            <li>Improved air quality monitoring</li>
+            <li>Expansion of green spaces</li>
+        </ul>
+    </section>
+
+    <footer>
+        <h3>References</h3>
+        <ul>
+            <li>Environmental Protection Agency (2022): "Environmental Justice and Health Disparities in Richmond, Virginia."</li>
+            <li>Marvin T. Chiles: "The Struggle for Change."</li>
+            <li>Virginia Commonwealth University Center for Environmental Studies (2021): "Impact of Urban Heat Islands on Richmond’s Neighborhoods."</li>
+        </ul>
+    </footer>
+</body>
+</html>
